@@ -50,6 +50,7 @@ function App() {
           </form>
         </div>
         <button></button>
+        <input type="text" placeholder="Hola"></input>
       </header>
     </div>
   );
