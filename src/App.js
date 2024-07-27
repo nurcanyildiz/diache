@@ -1,8 +1,9 @@
 import "./App.css";
 import reverseAlgorithm from "./reverseAlgorithm";
 import { useState } from "react";
+import { useContext } from "react";
 
-function App(reverseAlgorithm) {
+function App({ initialText }) {
   const [text, setText] = useState("");
   const [reversed, setReversed] = "";
 
