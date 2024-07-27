@@ -44,6 +44,12 @@ function App() {
     <div className="title">
       <header className="App-header">
         <p>Hola Andrea </p>
+        <div className="Input">
+          <form>
+            <input type="text" placeholder="Ay Padre"></input>
+          </form>
+        </div>
+        <button></button>
       </header>
     </div>
   );
