@@ -50,7 +50,7 @@ function App() {
           </form>
         </div>
         <button>Reverse</button>
-        <input type="text"></input>
+        <input type="text" placeholder="Hola"></input>
       </header>
     </div>
   );
