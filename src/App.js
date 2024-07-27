@@ -43,14 +43,14 @@ function App() {
   return (
     <div className="title">
       <header className="App-header">
-        <p>Hola Andrea </p>
         <div className="Input">
+          <h1>Te llamo p'atrá</h1>
           <form>
             <input type="text" placeholder="Ay Padre"></input>
           </form>
         </div>
-        <button></button>
-        <input type="text" placeholder="Hola"></input>
+        <button>Reverse</button>
+        <input type="text"></input>
       </header>
     </div>
   );
