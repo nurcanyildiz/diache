@@ -1,9 +1,9 @@
 import "./App.css";
-import reverseAlgorithm from "./reverseAlgorithm";
+import ReverseAlgorithm from "./reverseAlgorithm";
 import { useState } from "react";
 import { useContext } from "react";
 
-function App({ initialText }) {
+function App() {
   const [text, setText] = useState("");
   const [reversed, setReversed] = "";
 
@@ -28,7 +28,7 @@ function App({ initialText }) {
           <input type="text"></input>
         </div>
         <div>
-          <reverseAlgorithm />
+          <ReverseAlgorithm />
         </div>
       </header>
     </div>
