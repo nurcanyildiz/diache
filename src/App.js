@@ -1,5 +1,4 @@
 import "./App.css";
-import Home from "./Home";
 
 function App() {
   // const prayer = [
@@ -44,7 +43,7 @@ function App() {
   return (
     <div className="title">
       <header className="App-header">
-        <Home />
+        <p>Home</p>
       </header>
     </div>
   );
