@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="title">
       <header className="App-header">
-        <p>Home</p>
+        <p>Hola Andrea </p>
       </header>
     </div>
   );
