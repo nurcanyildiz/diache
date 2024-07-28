@@ -2,7 +2,7 @@
 const Home = () => {
   return (
     <>
-    <div className='border-black 20px'>
+    <div className='border-black p-5'>
       <h1>Hello</h1>
       </div>
     </>
