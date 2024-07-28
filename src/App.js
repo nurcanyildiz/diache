@@ -1,4 +1,5 @@
 import "./App.css";
+import Home from './Home'
 
 function App() {
   // const prayer = [
@@ -44,6 +45,7 @@ function App() {
     <div className="title">
       <header className="App-header">
         <p>Hola Andrea </p>
+        <Home/>
       </header>
     </div>
   );
