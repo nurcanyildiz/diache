@@ -1,12 +1,12 @@
-import React from "react";
 
 const Home = () => {
-    return(
-        <>
-        <h1>Hello</h1>
-        <h2>Hey</h2>
-        </>
-    )
+  return (
+    <>
+    <div className='border-black 20px'>
+      <h1>Hello</h1>
+      </div>
+    </>
+  );
 }
 
 export default Home;
